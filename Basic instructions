@@ -1,0 +1,7 @@
+Where to get whatsapp bot?
+CLick on the given below link and u will get API key which u will replace in the code.
+https://api.whatsapp.com/send?phone=5491123998026&text=I%20allow%20whatabot%20to%20send%20me%20messages.
+
+Now replace your username in the code with ssid and password with password.
+
+Now upload this code to your nodemcu(esp8266) using Arduino IDE and boom u have successfully done the project.
